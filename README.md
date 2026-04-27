@@ -1,4 +1,4 @@
-# LLM-steam-review-generator
+# GPT2 Steam Review Generator
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c.svg)](https://pytorch.org/)
